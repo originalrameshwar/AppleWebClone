@@ -88,7 +88,7 @@ const Home = () => {
           {/* bg-3 Iphone Sections starts here */}
 
           {/* bg-4 Grid starts here */}
-          <div className="h-auto shadow-xl bg-white mb-6 grid grid-cols-2 gap-5 p-5">
+          <div className="px-20 h-auto shadow-xl bg-white mb-6 grid grid-cols-2 gap-5 py-7">
             <motion.div
               initial={{ opacity: 0, x: -50 }}
               whileInView={{ opacity: 1, x: 0 }}
@@ -168,7 +168,7 @@ const Home = () => {
           {/* bg-4 Grid ends here */}
 
           {/* bg-5 Grid ends here */}
-          <div className=" h-auto shadow-xl bg-white mb-6 grid grid-cols-2 gap-3 p-3">
+          <div className="px-20 h-auto shadow-xl bg-white mb-6 grid grid-cols-2 gap-3 py-7">
             <motion.div
               initial={{ opacity: 0, x: -50 }}
               whileInView={{ opacity: 1, x: 0 }}
