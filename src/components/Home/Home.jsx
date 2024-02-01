@@ -39,7 +39,7 @@ const Home = () => {
                 From November 25 to 28, get an Apple Gift <br /> Card when you
                 buy an eligible product.1
               </h2>
-              <Link className="text-[#2997FF] " to="">
+              <Link className="text-[#2997FF] " to="https://www.google.com/">
                 Get an early look
               </Link>
             </motion.div>
